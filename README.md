@@ -18,7 +18,6 @@ Here are the technologies used in this project.
 
 * Github
 
-
 ## Getting started
 
 * Dependency
@@ -27,4 +26,3 @@ Here are the technologies used in this project.
 * To run the project.
   - run app.rb enjoy
 
-  Please follow github and join us!
