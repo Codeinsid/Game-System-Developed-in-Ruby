@@ -1,5 +1,5 @@
 ## Thiago almeida
-This is 'knights of the zodiac blog' with 'I18N' 'internationalization'
+Game system that generates number and asked the user to try to guess the number
 
 ## The App
 
@@ -25,4 +25,3 @@ Here are the technologies used in this project.
   
 * To run the project.
   - run app.rb enjoy
-
