@@ -1,6 +1,5 @@
 ## Thiago almeida
-This is my project with 'I18N' 'internationalization' \o/ 
-Enjoy It and I hope you can learn a lot!
+This is my project 
 
 
 ## The App
@@ -26,14 +25,8 @@ Here are the technologies used in this project.
 
 * Dependency
   - Ruby  
-  - Rails
-
-
-
   
 * To run the project.
   - run app.rb enjoy
 
-
   Please follow github and join us!
-  Thanks to visiting me and good coding!
