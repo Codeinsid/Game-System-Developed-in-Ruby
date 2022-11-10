@@ -1,11 +1,9 @@
 ## Thiago almeida
-This is my project 
-
+This is 'knights of the zodiac blog' with 'I18N' 'internationalization'
 
 ## The App
 
-register digital currencies and the type of digital currency
-with two different tables linked by a foreign key.
+system you try to guess the random generated number pre-defined by the system.
 
 ## Technology 
 
