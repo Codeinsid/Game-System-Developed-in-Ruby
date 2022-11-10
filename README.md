@@ -10,8 +10,6 @@ system you try to guess the random generated number pre-defined by the system.
 Here are the technologies used in this project.
 
 * Ruby version  2.6.10
-* Rails version 5.2
-* PostgreSQL/sqlite
 * ASCII art
 
 ## Services Used
@@ -24,4 +22,5 @@ Here are the technologies used in this project.
   - Ruby  
   
 * To run the project.
+* 
   - run app.rb enjoy
